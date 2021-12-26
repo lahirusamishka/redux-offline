@@ -1,0 +1,27 @@
+{
+  "name": "redux-offline",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@redux-offline/redux-offline": "^2.6.0",
+    "immer": "^9.0.7",
+    "modern-normalize": "^1.1.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-inspector": "^5.1.1",
+    "react-redux": "^7.0.3",
+    "react-scripts": "1.1.5",
+    "react-svg-spinner": "^1.0.4",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.3.3",
+    "styled-flex-component": "^3.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
